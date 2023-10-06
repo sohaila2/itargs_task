@@ -1,0 +1,14 @@
+{
+  "sampleText1": "Sample Text 1",
+"@sampleText1": {
+    "description": "the conventional newborn programmer greeting"
+},
+ "sampleText2": "Sample Text 2",
+"@sampleText2": {
+    "description": "the conventional newborn programmer greeting"
+},
+ "sampleText3": "Sample Text 3",
+"@sampleText1": {
+    "description": "the conventional newborn programmer greeting"
+}
+}
